@@ -20,7 +20,7 @@ This Guide describes a **Cheap and Easy** Solution for
 ---
 ## Map
 
-<img src="https://github.com/Naginreed/irl-cae_iOS-Win/assets/71943093/16bb5094-99b6-44a3-aa39-7243cff93978">
+<img src="https://github.com/Naginreed/irl-cae_iOS-Win/assets/71943093/1b7cc70e-8250-405b-865c-3a9b3b837140">
 
 > [!NOTE]  
 > At first this looks pretty complicated, but we will go Step-by-Step with Pictures *(when available)* trough the whole Setup Process.
