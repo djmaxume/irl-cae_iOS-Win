@@ -329,8 +329,9 @@ Check out this Youtube Video: [Moblin to Twitch (Direct) - Basic Setup Guide
 
 ---
 # 9 - Additional Help  
-### IRL App 
-Here is their [Discord](https://discord.gg/irlpro)
+### Moblin App 
+Here is their [Discord](https://discord.gg/Tm6kf778)
 ### OBS 
 you can check their [Forum](https://obsproject.com/forum/) or just look up one of the hundreds of Youtube Tutorials
 ### NOALBS
+Here is the Guide on [Github](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching) and their [Discord](https://discord.gg/efWu5HWM2u)
