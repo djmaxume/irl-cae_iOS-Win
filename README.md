@@ -148,12 +148,12 @@ Any normal PC or Laptop can be used, best cabled directly to your Home Internet 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/c7e714a3-fd5a-4783-aaff-9c82ea227f59" height="400">
 
 4.1.d - **In OBS** on the bottom left **add** now following **scenes**
- - Starting
+ - Start
  - Live
  - Low
- - Disconnected
- - Privacy
- - Ending
+ - Lost
+ - Brb
+ - End
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/344aaedc-92df-41c1-9e65-1dd6223deb0d" width="600">
 
