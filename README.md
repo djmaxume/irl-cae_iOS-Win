@@ -250,7 +250,7 @@ Following is an Explanation on what Scene is used for what and what People norma
 > [!NOTE]  
 > Following are just recommendations. Feel free to design however you want.
 
-**Starting**
+**Start**
 - Every time the Stream starts with this scene until the phone is live
 - Video+Music is often used as Background
 - simple Text "Starting Soon ..."
@@ -263,20 +263,20 @@ Following is an Explanation on what Scene is used for what and what People norma
 - When connection to the Phone is bad quality
 - simple Text "low bitrate"
   
-**Disconnected**
+**Lost**
 - When the connection to Phone is lost completely this is shown
 - old VODs or Clips are often used (For Clips i recommend a Folder named Clips and adding a VLC Media Source *requires [VLC Media Player](https://www.videolan.org/vlc/)*)
 - simple Text "Lost connection..." on Top
 - simple Text "Be right back" on Bottom
   
-**Privacy**
-- Can be activated by writing !privacy in Twitch-Chat
+**Brb**
+- Can be activated by writing !brb in Twitch-Chat
 - Similar to Disconnected
 - Can be switched to when you go to Toilet or have private Conversation for a few Minutes
 - Can be just normal scene with no audio or BRB Scene
   
-**Ending**
-- Can be activated by writing !ending in Twitch-Chat
+**End**
+- Can be activated by writing !end in Twitch-Chat
 - Similar to Starting Video+Music
 - Simple Text "Ending Stream"
 
@@ -288,11 +288,11 @@ Following is an Explanation on what Scene is used for what and what People norma
 6.a - **Start** your **PC** at Home an make sure it has a Internet Connection and that the PC doesn't turn off automatically  
 6.b - **Start OBS & NOALBS** on your PC  
 6.c - **Go outside** to where you want to start your IRL-Stream  
-6.d - Enter **!start** in **Twitch-Chat** to start Stream to Twitch  
-6.e - **Start Stream in IRL Pro** -> after a few seconds you are switched to Live-Scene  
-6.f - If you stop or loose connections on the Phone -> after a few seconds you are switched to Disconnected  
-6.g - As soon as connection from Phone to PC is restored -> after a few seconds you are switched back to Live  
-6.h - Switch to Privacy and back manually with Chat commands `!brb` and `!live`  
+6.d - Enter `!start` in **Twitch-Chat** to start Stream to Twitch  
+6.e - **Go Live in Moblin** -> after a few seconds you are switched to **Live-Scene**  
+6.f - If you stop or loose connections on the Phone -> after a few seconds you are switched to **Lost-Scene**  
+6.g - As soon as connection from Phone to PC is restored -> after a few seconds you are switched back to **Live-Scene**  
+6.h - Switch to **BRB** and back manually with Chat commands `!brb` and `!live`  
 6.i - **Stop the Stream** automatically only if you raid someone or with Chat command `!stop`  
 
 > [!IMPORTANT]  
