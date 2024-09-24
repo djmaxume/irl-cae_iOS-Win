@@ -1,7 +1,7 @@
 {
   "user": {
     "id": null,
-    "name": "REPLACE_STREAMER_NAME",
+    "name": "djmaxume",
     "passwordHash": null
   },
   "switcher": {
@@ -25,8 +25,8 @@
       {
         "streamServer": {
           "type": "Belabox",
-          "statsUrl": "REPLACE_BELLABOX_URL",
-          "publisher": "REPLACE_BELLABOX_INGEST_KEY"
+          "statsUrl": "http://jp.srt.belabox.net:8080/tsbMX2gseNfN7znjQFoCq3T2EcUWFo",
+          "publisher": "tsbMX2gseNfN7znjQFoCq3T2EcUWFo"
         },
         "name": "BELABOX cloud",
         "priority": 0,
@@ -39,7 +39,7 @@
   "software": {
     "type": "Obs",
     "host": "localhost",
-    "password": "REPLACE_OBS_WEBSOCKET_PASSWORD",
+    "password": "7GfBozvS2FNWP3jk",
     "port": 4455,
     "collections": {
       "twitch": {
@@ -50,9 +50,9 @@
   },
   "chat": {
     "platform": "Twitch",
-    "username": "REPLACE_STREAMER_NAME",
+    "username": "djmaxume",
     "admins": [
-      "REPLACE_STREAMER_NAME"
+      "djmaxume"
     ],
     "language": "EN",
     "prefix": "!",
