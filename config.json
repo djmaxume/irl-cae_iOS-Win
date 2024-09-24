@@ -1,7 +1,7 @@
 {
   "user": {
     "id": null,
-    "name": "REPLACE_STREAMER_NAME",
+    "name": "djmaxume",
     "passwordHash": null
   },
   "switcher": {
@@ -50,9 +50,9 @@
   },
   "chat": {
     "platform": "Twitch",
-    "username": "REPLACE_STREAMER_NAME",
+    "username": "djmaxume",
     "admins": [
-      "REPLACE_STREAMER_NAME"
+      "djmaxume"
     ],
     "language": "EN",
     "prefix": "!",
